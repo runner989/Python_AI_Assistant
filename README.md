@@ -1,6 +1,6 @@
-# AI Code Assistant
+# AI Assistant
 
-A command-line application that leverages Google's Gemini AI to assist with coding tasks. This assistant can answer questions, generate code, fix bugs, and execute commands to solve programming problems.
+A command-line application that leverages Google's Gemini AI. This assistant can answer questions, generate code, fix bugs, and execute commands to solve programming problems.
 
 ## Features
 
