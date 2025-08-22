@@ -16,6 +16,8 @@ A command-line application that leverages Google's Gemini AI. This assistant can
 - `functions/`: Helper functions for file operations and Python execution
 - `calculator/`: Example project (a calculator application) that can be interacted with
 
+## 🤝 Contributing
+
 ## Requirements
 
 - Python 3.10+
@@ -71,6 +73,9 @@ To use the calculator directly:
 python calculator/main.py "3 + 5"
 ```
 
+### Submit a pull request
+
+If you'd like to contribute, please fork the repository and open a pull request to the `main` branch.
 ## License
 
 MIT
